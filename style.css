@@ -1,0 +1,89 @@
+body {
+    background-color: rgb(243, 210, 210);
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#whole {
+    background-color: white;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    border-radius: 20px;
+}
+
+.img {
+    width: 800px;
+    height: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.recipe, .recipe_p {
+    margin-left: 50px;
+}
+.time {
+    width: auto;
+    background-color: rgb(244, 210, 215);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.time_pre {
+    color: rgb(225, 94, 116);
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+.time_li {
+    padding-bottom: 10px;
+}
+
+.list {
+    color: brown;
+    margin-left: 50px;
+}
+
+.list_li {
+    padding-bottom: 10px;
+    margin-left: 50px;
+}
+
+.instr {
+    margin-left: 50px;
+    color: brown;
+}
+
+.instru_li {
+    padding-bottom: 10px;
+    margin-left: 50px;
+}
+
+.nutri {
+    margin-left: 50px;
+    color: brown;
+}
+
+.nutri_p {
+    margin-left: 50px;
+}
+
+.item p {
+    display: inline-block;
+    border-bottom: 2px;
+}
+
+.flavor {
+    width: 25%;
+    margin-left: 75px;
+}
+
+.line {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.price {
+    color: brown;
+}
